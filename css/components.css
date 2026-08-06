@@ -1,0 +1,36 @@
+
+
+.btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 28px;
+    min-width: 170px;
+    min-height: 50px;
+    border-radius: var(--radius-md);
+    font-size: var(--text-size);
+    font-weight: 600;
+    white-space: nowrap;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.btn-primary{
+
+    background: var(--primary);
+
+    color: var(--white);
+
+}
+
+.btn-primary:hover{
+
+    background: var(--primary-hover);
+
+}
+
+.card{
+    background: var(--surface);
+    padding: var(--space-lg);
+    border-radius: var(--radius-lg);
+}

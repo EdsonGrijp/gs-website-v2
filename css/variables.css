@@ -1,0 +1,47 @@
+:root{
+
+    --background: #071A3A;
+    --surface: #0D254D;
+
+    --primary: #00AEEF;
+    --primary-hover: #0095CC;
+
+    --white: #FFFFFF;
+
+    --text: #F8FAFC;
+    --text-secondary: #B9C5D8;
+
+    --border: rgba(255,255,255,.08);
+
+    --font-primary: "Poppins", sans-serif;
+
+    --hero-title: 4rem;
+    --section-title: 2.8rem;
+    --subtitle: 1.4rem;
+    --text-size: 1rem;
+    --small-text: .875rem;
+
+    --space-xs: 8px;
+    --space-sm: 16px;
+    --space-md: 24px;
+    --space-lg: 32px;
+    --space-xl: 48px;
+    --space-2xl: 64px;
+    --space-3xl: 96px;
+    --space-4xl: 120px;
+
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-xl: 28px;
+
+    --shadow-sm: 0 4px 12px rgba(0,0,0,.15);
+    --shadow-md: 0 10px 30px rgba(0,0,0,.20);
+
+    --transition: .3s ease-in-out;
+
+    --container-width: 1280px;
+    --header-height: 90px;
+
+}
+
